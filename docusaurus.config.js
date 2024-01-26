@@ -63,7 +63,7 @@ const config = {
         title: '',
         logo: {
           alt: 'Documentación de Chat Buho',
-          src: 'https://buho.la/images/https://logowik.com/content/uploads/https://www.senati.edu.pe/sites/default/files/2017/especialidad/11/senati-web-logo-295-x-147-2_2.jpg://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Senati_Per%C3%BA_logo.svg/2560px-Senati_Per%C3%BA_logo.svg.pngages/senati-peruhttps://yt3.googleusercontent.com/ytc/AIf8zZR2hYnUCN-L1Ph9pDo_8ihY7F7jFmSVWdsGVnSPvA=s900-c-k-c0x00ffffff-no-rj5849.logowik.com.webpchat/chat-buho.svg',
+          src: 'https://buho.la/images/https://logowik.com/https://res.cloudinary.com/cloudinary-marketing/images/w_1200,h_630/f_auto,q_auto/v1681924826/Web_Assets/blog/b093a470de11e89eecceb24859161234dfa53ab5-1200x630-1_2831985e6d/b093a470de11e89eecceb24859161234dfa53ab5-1200x630-1_2831985e6d-png?_i=AA/uploads/https://www.senati.edu.pe/sites/default/files/2017/especialidad/11/senati-web-logo-295-x-147-2_2.jpg://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Senati_Per%C3%BA_logo.svg/2560px-Senati_Per%C3%BA_logo.svg.pngages/senati-peruhttps://yt3.googleusercontent.com/ytc/AIf8zZR2hYnUCN-L1Ph9pDo_8ihY7F7jFmSVWdsGVnSPvA=s900-c-k-c0x00ffffff-no-rj5849.logowik.com.webpchat/chat-buho.svg',
         },
         items: [
           // {
