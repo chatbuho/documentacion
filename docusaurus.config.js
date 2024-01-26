@@ -63,7 +63,7 @@ const config = {
         title: '',
         logo: {
           alt: 'Documentación de Chat Buho',
-          src: 'https://buho.la/images/chat/chat-buho.svg',
+          src: 'https://buho.la/images/https://logowik.com/content/uploads/images/senati-peru5849.logowik.com.webpchat/chat-buho.svg',
         },
         items: [
           // {
