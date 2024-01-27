@@ -11,13 +11,13 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://documentacion.chat.buho.la',
+  url: 'https:/jeremyabel710.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/documentacion/',
 
   // GitHub pages deployment config.
-  organizationName: 'chatbuho',
+  organizationName: 'jeremyabel710',
   projectName: 'documentacion',
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
@@ -58,12 +58,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'https://acortar.link/fZV75r',
       navbar: {
         title: '',
         logo: {
           alt: 'Documentación de Chat Buho',
-          src: 'https://buho.la/images/chat/chat-buho.svg',
+          src: 'https://res.cloudinary.com/cloudinary-marketing/images/w_1200,h_630/f_auto,q_auto/v1681924826/Web_Assets/blog/b093a470de11e89eecceb24859161234dfa53ab5-1200x630-1_2831985e6d/b093a470de11e89eecceb24859161234dfa53ab5-1200x630-1_2831985e6d-png?_i=AA',
         },
         items: [
           // {
