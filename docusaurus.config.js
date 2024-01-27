@@ -58,7 +58,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'https://static.mercadonegro.pe/wp-content/uploads/2017/10/27160609/22815135_916150281870460_820360796721820140_n.jpg',
+      image: 'img/senatiii.jpg',
       navbar: {
         title: '',
         logo: {
