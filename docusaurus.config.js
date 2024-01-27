@@ -11,13 +11,13 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://documentacion.chat.buho.la',
+  url: 'https:/jeremyabel710.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/documentacion/',
 
   // GitHub pages deployment config.
-  organizationName: 'chatbuho',
+  organizationName: 'jeremyabel710',
   projectName: 'documentacion',
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
@@ -58,7 +58,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'https://static.mercadonegro.pe/wp-content/uploads/2017/10/27160609/22815135_916150281870460_820360796721820140_n.jpg',
       navbar: {
         title: '',
         logo: {
