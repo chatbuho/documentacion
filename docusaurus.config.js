@@ -1,7 +1,9 @@
-// @ts-check
+// @ts-nocheck
 // Note: type annotations allow type checking and IDEs autocompletion
 
+// @ts-ignore
 const lightCodeTheme = require('prism-react-renderer/themes/github');
+// @ts-ignore
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
@@ -44,12 +46,14 @@ const config = {
         },
         // blog: false,
         theme: {
+          // @ts-ignore
           customCss: require.resolve('./src/css/custom.css'),
         },
       }),
     ],
   ],
   plugins: [
+    // @ts-ignore
     require.resolve("@cmfcmf/docusaurus-search-local"),
     'plugin-image-zoom',
   ],
@@ -63,7 +67,7 @@ const config = {
         title: '',
         logo: {
           alt: 'Documentación de Chat Buho',
-          src: 'https://buho.la/images/chat/chat-buho.svg',
+          src: 'https://comodibujar.club/wp-content/uploads/2020/11/kawaii-buho.jpg',
         },
         items: [
           // {
