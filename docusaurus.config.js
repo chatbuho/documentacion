@@ -1,4 +1,4 @@
-// @ts-check
+// @ts-nocheck
 // Note: type annotations allow type checking and IDEs autocompletion
 
 const lightCodeTheme = require('prism-react-renderer/themes/github');
@@ -63,7 +63,7 @@ const config = {
         title: '',
         logo: {
           alt: 'Documentación de Chat Buho',
-          src: 'https://res.cloudinary.com/cloudinary-marketing/images/w_1200,h_630/f_auto,q_auto/v1681924826/Web_Assets/blog/b093a470de11e89eecceb24859161234dfa53ab5-1200x630-1_2831985e6d/b093a470de11e89eecceb24859161234dfa53ab5-1200x630-1_2831985e6d-png?_i=AA',
+          src: 'https://logolook.net/wp-content/uploads/2021/07/Air-Jordan-Logo-1.png',
         },
         items: [
           // {
